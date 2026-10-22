@@ -11,3 +11,6 @@ up:
 * Калькулятор пыли https://poe-disenchant-tool.vercel.app/allflame
 * Продажа дешевых скарабеев https://doobyy.github.io/ScarabEV/
 * Калькулятор Timeless Jewel https://vilsol.github.io/timeless-jewels/tree
+* Если играешь от блока то дешевая намазка на амулет Testudo
+* Отключить рефлект можно взять пантеон Yugul и Protection Mastery
+* Можно брать Soul of Lunaris вместо Brine King если взять фласку на freeze immune
