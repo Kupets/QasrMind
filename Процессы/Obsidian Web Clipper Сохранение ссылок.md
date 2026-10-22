@@ -4,7 +4,7 @@ up:
 ---
 Obsidian Web Clipper
 
-![[Screenshot_20260512_022044_Firefox.jpg]]
-![[Screenshot_20260512_022119_Firefox.jpg]]
-![[Screenshot_20260512_022208_Firefox.jpg]]
-![[Screenshot_20260512_022801_Firefox.jpg]]
+![[ObS1.jpg]]
+![[ObS2.jpg]]
+![[ObS3.jpg]]
+![[ObS4.jpg]]
