@@ -1,0 +1,176 @@
+{
+  "main": {
+    "id": "0de5397100878889",
+    "type": "split",
+    "children": [
+      {
+        "id": "f6f35afa288f6d62",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "09ad0fdc10b391ee",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Новая вкладка"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5e8efce07ff90a7a",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "11e170089307ae8c",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Файловый менеджер"
+        }
+      },
+      {
+        "id": "18bafc6a9b5ef6b5",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Поиск"
+        }
+      },
+      {
+        "id": "515d328304cc9b3a",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Теги"
+        }
+      },
+      {
+        "id": "fb9112923b83e7f9",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "Все свойства"
+        }
+      },
+      {
+        "id": "675fcace27b25501",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-bookmark",
+          "title": "Закладки"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "fd4ca2fa2f88eb64",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "0601f054a8842db1",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Обратные ссылки"
+        }
+      },
+      {
+        "id": "e0a3f42f7f5447ab",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Исходящие ссылки"
+        }
+      },
+      {
+        "id": "3de855a39e1b7258",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Структура"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "bases:Создать новую базу": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "09ad0fdc10b391ee",
+  "lastOpenFiles": [
+    "имт 45.md",
+    "авпавп 454.md",
+    "авпав 543543.md"
+  ]
+}
