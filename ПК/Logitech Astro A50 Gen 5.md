@@ -3,7 +3,7 @@ up: "[[Наушники]]"
 ---
 Отличие  [ASTRO A50 (Gen 5)](https://www.logitechg.com/en-us/shop/p/a50-gen-5) и [# ASTRO A50 X](https://www.logitechg.com/en-us/shop/p/a50-x-astro-wireless-headset), что последние используются для XBOX и PS
 
-![[ASTRO A50.png]]![[ASTRO A50X.png]]
+![[ASTROA50.png]]![[ASTROA50X.png]]
 
 ---
 

@@ -7,7 +7,7 @@ LIST
 WHERE contains(up, this.file.link)
 ```
 
-![[ROG STRIX.png]]
+![[ROGSTRIX.png]]
 
 
-![[ROG STRIX Ports.png]]
+![[ROGSTRIXPorts.png]]
