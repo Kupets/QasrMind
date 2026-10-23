@@ -2,7 +2,7 @@
 up:
   - "[[ПК]]"
 ---
-[Razer Tartarus V2 Pro](https://mobile-review.com/all/news/kompaniya-razer-predstavila-igrovuyu-klaviaturu-tartarus-v2-pro/) - именно V2 Pro
+[Razer Tartarus V2 Pro](https://mobile-review.com/all/news/kompaniya-razer-predstavila-igrovuyu-klaviaturu-tartarus-v2-pro/) - именно V2 Pro https://www.razer.com/gaming-keypads/razer-tartarus-v2-pro
 [Keychron C0 HE 8K](https://www.ixbt.com/live/periphery/keychron-predstavila-odnostoronnyuyu-igrovuyu-klaviaturu-c0-he-8k-s-magnitnymi-pereklyuchatelyami.html)
 [Redragon Diti K585](https://redragon.ru/catalog/keyboards/7939)
 ### Руки
