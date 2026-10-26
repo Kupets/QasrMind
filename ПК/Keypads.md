@@ -6,7 +6,7 @@ up:
 [Keychron C0 HE 8K](https://www.ixbt.com/live/periphery/keychron-predstavila-odnostoronnyuyu-igrovuyu-klaviaturu-c0-he-8k-s-magnitnymi-pereklyuchatelyami.html)
 [Redragon Diti K585](https://redragon.ru/catalog/keyboards/7939)
 ### Руки
-![[BalckCyborgII.avif]]
+![[Keypads.avif]]
 [Рука](https://youtube.com/shorts/lEpjxjp5hJU](https://youtube.com/shorts/lEpjxjp5hJU)
 [Azeron Cyborg (Cyborg II)](https://azeron.com/collections/cyborg-ii?srsltid=AYCX9vK0lm0MELKWltP9nUW0qIIudMXoW8I3C3nIM9kuTJ8o89dnH_Cy)
 
